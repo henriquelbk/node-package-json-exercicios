@@ -1,0 +1,1 @@
+console.log("O app foi iniciado");
